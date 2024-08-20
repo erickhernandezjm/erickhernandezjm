@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Erick Hernández<br>🌱 I’m currently learning JavaScript to be a pro and C# for desktop apps. <br>💞️ I’m looking to collaborate on Microsoft, Google, Oracle or Notion. <br>📫 How to reach me at erickhernandez.com.mx
+👋 Hi, I’m Erick Hernández<br>🌱 I’m currently a Freelance Web Developer, I'm learning more JavaScript for web and C# for desktop apps. <br>💞️ I’m looking to collaborate on Microsoft, Google, Oracle or Notion. <br>📫 How to reach me at erickhernandez.net
 
 
 ## 🌐 Socials:
