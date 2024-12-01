@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erickhernandezjm) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ehernandezjm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ehernandezjm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@erickhernandezjm) 
 
 # 🖋️ CodePen 
-[![Erick's CodePen Contribution](https://cdn.dribbble.com/users/299/screenshots/5648722/media/020215f51262d15b84a5d6ab03d8dfad.gif)](https://codepen.io/erickhernandezjm/pen/NPKqvpM)
+[![Erick's CodePen Contribution](https://cdn.dribbble.com/users/299/screenshots/5648722/media/020215f51262d15b84a5d6ab03d8dfad.gif)|width=100](https://codepen.io/erickhernandezjm/pen/NPKqvpM)
 
 
 # 💻 Tech Stack:
